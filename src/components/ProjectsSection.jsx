@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Sweatzone Fitness Center",
     description: "A desktop-based calorie tracking and receipt generation tool aimed at promoting nutritional awareness and meal monitoring among fitness enthusiasts and gym members.",
-    image: "public/projects/fitness.jpg",
+    image: "/projects/fitness.jpg",
     tags: [ "Python", "Tkinter", "Fast2SMS API", "FileDialog"],
     githubUrl: "https://github.com/varram04/SWEATZONE-FITNESS-CENTRE",
   },
@@ -14,7 +14,7 @@ const projects = [
     title: "GuideLight - Empowering Education Through Voice for the Visually Impaired",
     description:
       "Mobile app enabling visually impaired students to access educational content via voice interaction, screen reading, and audio feedback, with offline access and personalized progress tracking.",
-    image: "public/projects/guidelight.jpg",
+    image: "/projects/guidelight.jpg",
     tags: ["HTML", "CSS", "Javascript","API"],
     demoUrl: "#",
     githubUrl: "https://github.com/varram04/Guidelight---Education-",
@@ -24,7 +24,7 @@ const projects = [
     title: "Academic Automation using ReactJS",
     description:
       "A mark entry system using React.js and XAMPP to help teachers enter, manage, and analyze student marks efficiently with features like automated mark sheets and question-wise entry.",
-    image: "public/projects/academic.png",
+    image: "/projects/academic.png",
     tags: ["React", "Node.js", "XAMPP","PHP"],
     demoUrl: "#",
     githubUrl: "#",
